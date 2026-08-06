@@ -14,7 +14,6 @@ Neste ano fiz o Bootcamp Vivo Python AI Backend Developer da DIO que foi muito b
 
 Também aprendi um pouco sobre SQL e NOSQL, mas ainda está no inicio.
 
-Estou a procura de um estágio para por em prática o conhecimento apreendido e ampliar ainda mais.
 
 Em breve trago mais atualizações!
 
